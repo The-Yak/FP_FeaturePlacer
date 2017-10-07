@@ -1,0 +1,57 @@
+--EXAMPLE set.lua
+
+local features = { 
+	unitlist = {
+	},
+	buildinglist = {
+	},
+	objectlist = {
+		{ name = 'ad0_pine_3_s'	,x = 5088	,z = 3968	,rot = "-1" }, --Set to -1 for random rotation
+		{ name = 'ad0_pine_2_s'	,x = 8608	,z = 3472	,rot = "-31120" },
+		{ name = 'ad0_pine_2_xl'	,x = 7792	,z = 4656	,rot = "19543" },
+		{ name = 'ad0_pine_3_xl'	,x = 84	,z = 420	,rot = "16485" },
+		{ name = 'ad0_pine_2_xl'	,x = 736	,z = 624	,rot = "-20635" },
+		{ name = 'ad0_pine_2_xxl'	,x = 1440	,z = 704	,rot = "14227" },
+		{ name = 'ad0_pine_2_xl'	,x = 2112	,z = 800	,rot = "6544" },
+		{ name = 'ad0_pine_2_s'	,x = 5488	,z = 4928	,rot = "-1" },
+		{ name = 'ad0_pine_2_s'	,x = 1312	,z = 3408	,rot = "5204" },
+		{ name = 'ad0_pine_3_xl'	,x = 720	,z = 5584	,rot = "20076" },
+		{ name = 'ad0_pine_3_xl'	,x = 5312	,z = 5552	,rot = "18403" },
+		{ name = 'ad0_pine_3_xxl'	,x = 2752	,z = 5952	,rot = "-3657" },
+		{ name = 'ad0_pine_3_m'	,x = 2352	,z = 5408	,rot = "-23121" },
+		{ name = 'ad0_pine_3_s'	,x = 5152	,z = 3712	,rot = "-2913" },
+		{ name = 'ad0_pine_3_l'	,x = 9040	,z = 2544	,rot = "25078" },
+		{ name = 'ad0_pine_2_s'	,x = 2368	,z = 1616	,rot = "25439" },
+		{ name = 'ad0_pine_3_xxl'	,x = 5344	,z = 4736	,rot = "-1" },
+		{ name = 'ad0_pine_2_xxl'	,x = 992	,z = 544	,rot = "-26096" },
+		{ name = 'ad0_pine_2_m'	,x = 9024	,z = 5952	,rot = "24776" },
+		{ name = 'ad0_pine_3_xxl'	,x = 5392	,z = 5104	,rot = "25567" },
+		{ name = 'ad0_pine_2_m'	,x = 2448	,z = 4800	,rot = "14585" },
+		{ name = 'ad0_pine_3_s'	,x = 5520	,z = 4864	,rot = "-1" },
+		{ name = 'ad0_pine_2_s'	,x = 2288	,z = 976	,rot = "23602" },
+		{ name = 'ad0_pine_3_m'	,x = 2816	,z = 544	,rot = "27943" },
+		{ name = 'ad0_pine_2_m'	,x = 6000	,z = 3024	,rot = "27848" },
+		{ name = 'ad0_pine_2_s'	,x = 240	,z = 5376	,rot = "4456" },
+		{ name = 'ad0_pine_2_xxl'	,x = 7776	,z = 4528	,rot = "-24682" },
+		{ name = 'ad0_pine_3_l'	,x = 4080	,z = 2464	,rot = "-9096" },
+		{ name = 'ad0_pine_3_s'	,x = 5056	,z = 3776	,rot = "6566" },
+		{ name = 'ad0_pine_3_xxl'	,x = 4016	,z = 2784	,rot = "6843" },
+		{ name = 'ad0_pine_3_m'	,x = 1712	,z = 400	,rot = "-32350" },
+		{ name = 'ad0_pine_2_xl'	,x = 5984	,z = 4864	,rot = "-1" },
+		{ name = 'geovent'	,x = 56	,z = 5944	,rot = "-1" },
+		{ name = 'ad0_pine_2_s'	,x = 5792	,z = 1712	,rot = "-1" },
+		{ name = 'ad0_pine_3_m'	,x = 2256	,z = 1184	,rot = "-5473" },
+		{ name = 'ad0_pine_2_l'	,x = 348	,z = 2580	,rot = "-16967" },
+		{ name = 'ad0_pine_3_xl'	,x = 3632	,z = 1744	,rot = "23597" },
+		{ name = 'ad0_pine_2_xl'	,x = 8592	,z = 3280	,rot = "-1" },
+		{ name = 'ad0_pine_3_l'	,x = 1952	,z = 720	,rot = "-7833" },
+		{ name = 'ad0_pine_2_xl'	,x = 6240	,z = 5312	,rot = "-12116" },
+		{ name = 'ad0_pine_3_l'	,x = 3760	,z = 5152	,rot = "-4404" },
+		{ name = 'ad0_pine_3_s'	,x = 6000	,z = 4896	,rot = "-1" },
+		{ name = 'ad0_pine_3_l'	,x = 2368	,z = 5072	,rot = "15101" },
+		{ name = 'ad0_pine_2_xxl'	,x = 212	,z = 4996	,rot = "9539" },
+	},
+	metalspots = {
+	},
+}
+return features
